@@ -2,3 +2,10 @@
     background-color: black;
     color: aliceblue;
 }
+img{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+textarea{
+    width: 100%;
+}
